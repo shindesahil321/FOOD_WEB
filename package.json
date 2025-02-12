@@ -10,11 +10,16 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "node": "^22.14.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "latest"
   },
-  "keywords": ["food", "delivery", "react"],
+  "keywords": [
+    "food",
+    "delivery",
+    "react"
+  ],
   "author": "Sahil Shinde",
   "license": "ISC"
 }
