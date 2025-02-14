@@ -4,10 +4,8 @@
   "description": "A food delivery application",
   "private": true,
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "echo 'Root does not need a start script'",
+  "build": "echo 'Run build commands inside frontend/admin folders'"
   },
   "dependencies": {
     "node": "^22.14.0",
