@@ -5,7 +5,10 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "start": "node server.js", 
+  "build": "echo 'Run build commands inside frontend/admin folders'",
+  "dev": "npm start"
   },
   "author": "",
   "license": "ISC",
